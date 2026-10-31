@@ -13,7 +13,7 @@
     "lint:ext": "web-ext lint --source-dir dist"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.6.2",
+    "@biomejs/biome": "2.6.3",
     "esbuild": "^0.28.2",
     "typescript": "^7.0.2",
     "vitest": "^5.0.5",
